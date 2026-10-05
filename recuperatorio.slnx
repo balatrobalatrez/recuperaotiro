@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="cosolarecu/cosolarecu.csproj" />
+  <Project Path="recuperatorio/recuperatorio.csproj" />
+</Solution>

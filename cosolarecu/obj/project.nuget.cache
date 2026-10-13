@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rn7Fbs/Nes4=",
+  "dgSpecHash": "sk1YXWky4+s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\cosolarecu\\cosolarecu.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\cosolarecu\\cosolarecu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",

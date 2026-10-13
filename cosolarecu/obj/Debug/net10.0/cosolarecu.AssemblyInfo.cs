@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cosolarecu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55bfac7e37f38dbfbf7dc8792cb59368bd56f0aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("cosolarecu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cosolarecu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

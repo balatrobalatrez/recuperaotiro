@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\recuperatorio\\cosolarecu\\cosolarecu.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\cosolarecu\\cosolarecu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\recuperatorio\\cosolarecu\\cosolarecu.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\cosolarecu\\cosolarecu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\cosolarecu\\cosolarecu.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\cosolarecu\\cosolarecu.csproj",
         "projectName": "cosolarecu",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\cosolarecu\\cosolarecu.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\cosolarecu\\cosolarecu.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\cosolarecu\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\cosolarecu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\source\\repos\\recuperatorio\\recuperatorio\\recuperatorio.csproj": {
-                "projectPath": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\recuperatorio\\recuperatorio.csproj"
+              "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\recuperatorio\\recuperatorio.csproj": {
+                "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\recuperatorio\\recuperatorio.csproj"
               }
             }
           }
@@ -363,14 +363,14 @@
         }
       }
     },
-    "C:\\Users\\lucas\\source\\repos\\recuperatorio\\recuperatorio\\recuperatorio.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\recuperatorio\\recuperatorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\recuperatorio\\recuperatorio.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\recuperatorio\\recuperatorio.csproj",
         "projectName": "recuperatorio",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\recuperatorio\\recuperatorio.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\recuperatorio\\recuperatorio.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\recuperatorio\\recuperatorio\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\GitHub\\recuperaotiro\\recuperatorio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
